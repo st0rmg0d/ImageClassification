@@ -39,7 +39,7 @@ sqlparse==0.4.1
 tensorboard==2.5
 tensorboard-plugin-wit==1.7.0
 tensorflow==2.5.3
-tensorflow-estimator==1.15.1
+tensorflow-estimator==2.5.0
 termcolor==1.1.0
 typing-extensions==3.7.4.3
 urllib3==1.26.2
