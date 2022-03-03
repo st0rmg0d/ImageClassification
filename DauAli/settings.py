@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-*_%j(+tvxe&^6v=xse1fdbce0&g6bdx*1fs%aqf+ezxq8ew(%2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'https://secure-brook-31629.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'https://imageclassification-dauali.herokuapp.com/']
 
 
 # Application definition
