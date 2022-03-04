@@ -5,9 +5,9 @@ from django.core.files.storage import FileSystemStorage
 
 from keras.models import load_model
 from keras.preprocessing import image
-import tensorflow-cpu as tf
+import tensorflow as tf
 import json
-from tensorflow-cpu import Graph
+from tensorflow import Graph
 
 
 img_height, img_width=224,224
