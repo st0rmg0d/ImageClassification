@@ -1,1 +1,1 @@
-web: gunicorn app:Dauali
+web: gunicorn app:app
