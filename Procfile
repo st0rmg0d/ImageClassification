@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn DauAli.wsgi --log-file -
